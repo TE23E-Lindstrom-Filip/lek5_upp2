@@ -1,0 +1,176 @@
+.bakgrund {
+
+    border: 2px solid #D6001C;
+    min-height: 1px;
+    border-radius: 20px;
+    
+    width: 100%;
+
+    background-image: url(./img/snow_winter_trees.jpg);
+    background-size: 100% 100%;
+
+
+}
+
+.bakgrund h1 {
+
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+
+}
+
+.länkar {
+
+    border: 2px solid #D6001C;
+    min-height: 80px;
+    min-width: 99%;
+    border-radius: 20px;
+
+    margin-top: 8px;
+    margin-bottom: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.länkar img {
+    width: 250px;
+    border: black 4px solid;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+
+}
+
+.vinter{
+    margin-bottom: 100px;
+    
+}
+
+.mountains {
+
+    font-family: "Mountains of Christmas", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+}
+
+.mellan {
+
+    border: 2px solid #D6001C;
+    border-radius: 20px;
+    min-height: 550px;
+    max-height: 550px;
+    margin-top: 8px;
+    width: 100%;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.vänster {
+
+    border: 2px solid #D6001C;
+    border-radius: 20px;
+    min-height: 530px;
+    max-height: 530px;
+    max-width: 19%;
+    min-width: 19%;
+
+    margin-left: 5px;
+    margin-right: 5px;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.vänster img{
+
+    min-height: 50px;
+    max-height: 50px;
+
+    border: black 4px solid;
+    border-radius: 20px;
+    
+}
+
+.mitten {
+
+    border: 2px solid #D6001C;
+    border-radius: 20px;
+    min-height: 530px;
+    max-height: 530px;
+    max-width: 60%;
+    min-width: 60%;
+
+
+    margin-left: 5px;
+    margin-right: 5px;   
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.höger {
+
+    border: 2px solid #D6001C;
+    border-radius: 20px;
+    min-height: 530px;
+    max-height: 530px;
+    max-width: 18%;
+    min-width: 18%;
+
+
+    margin-left: 5px;
+    margin-right: 5px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+
+    background-size: 100% 100%;
+    background-image: url(./img/christmasTree.jpg);
+}
+
+.höger img{
+
+    min-width: 18%;
+    max-width: 18%;
+    margin: 10px;
+    padding: 10px;
+}
+
+.sidfot{
+    
+    border: 2px solid #D6001C;
+    border-radius: 20px;
+    min-height: 50px;
+    max-height: 50px;
+    margin-top: 8px;
+    width: 100%;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+h1 {
+    text-align: center;
+    vertical-align: middle;
+}
